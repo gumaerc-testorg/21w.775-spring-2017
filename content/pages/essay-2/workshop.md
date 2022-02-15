@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Essay 2
+parent_type: CourseSection
 parent_uid: 2934922d-0028-909c-6457-fb5770df3ec4
 title: Workshop
 uid: 621dbc38-404f-016c-ccde-fab6ac08db45

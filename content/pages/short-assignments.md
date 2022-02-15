@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Short Assignments
 uid: a7f1ba37-a3f4-4b76-d84a-5e2886b1071f
 ---

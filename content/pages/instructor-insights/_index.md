@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4b41ee35-3642-bf02-01cc-25d7531538a4
 ---
@@ -32,20 +34,6 @@ None
 ### Offered
 
 Every few years
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with a blackboard in the front, windows on the left, long tables pushed together to form desks and moveable chairs.]({{< resource_file 4d6fe0bc-de4e-c8b1-46d8-9563865da2ab >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    All class sessions were held in a small classroom with sliding chalkboards, an overhead projector, long tables with connections for laptops and moveable chairs.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

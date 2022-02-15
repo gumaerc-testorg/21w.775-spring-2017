@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4b41ee35-3642-bf02-01cc-25d7531538a4
 title: Providing Students with Feedback
 uid: dc4448e7-8a4f-afe0-e966-497693391926
