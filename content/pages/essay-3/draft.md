@@ -1,11 +1,11 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
 parent_title: Essay 3
 parent_type: CourseSection
 parent_uid: 9305c794-9837-e7fa-1ebe-540f1e607425
 title: Draft
+type: CourseSection
 uid: f4eccb25-8cc2-faa8-8a53-f4a7712fd0b2
 ---
 

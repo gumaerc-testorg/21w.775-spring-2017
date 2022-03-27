@@ -2,11 +2,11 @@
 content_type: page
 layout: instructor_insights
 learning_resource_types: []
-ocw_type: CourseSection
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 4b41ee35-3642-bf02-01cc-25d7531538a4
 title: Balancing Intensive Writing and Reading
+type: CourseSection
 uid: dbdff3d7-eca1-f698-febf-6e8114f8bc5d
 ---
 

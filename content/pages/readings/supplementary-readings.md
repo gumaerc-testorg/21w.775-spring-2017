@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Readings
-ocw_type: CourseSection
 parent_title: Readings
 parent_type: CourseSection
 parent_uid: 632ac3e3-3413-398a-9eb3-a058ae728a3b
 title: Supplementary Readings
+type: CourseSection
 uid: 3906362f-b4cb-03c7-7c7f-1ceb9d5e7d6c
 ---
 

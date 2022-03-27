@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 21W.775 classroom
+type: OCWImage
 uid: 4d6fe0bc-de4e-c8b1-46d8-9563865da2ab
 ---

@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: _less-than-10.png
+type: OCWImage
 uid: 50d1e848-4292-2e12-4f9a-a94b89f43162
 ---

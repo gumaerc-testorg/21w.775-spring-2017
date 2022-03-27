@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-ocw_type: OCWImage
 parent_title: Providing Students with Feedback
 parent_type: CourseSection
 resourcetype: Image
 title: 21W.775_Laptop
+type: OCWImage
 uid: 8dbad1d4-8adb-382f-2900-cecf48066c75
 ---

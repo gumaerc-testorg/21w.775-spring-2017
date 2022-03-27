@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
 title: Essay 2
+type: CourseSection
 uid: 2934922d-0028-909c-6457-fb5770df3ec4
 ---
 
