@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: In this section, Cynthia Taft shares strategies she uses to provide students
+  with feedback about their writing.
 layout: instructor_insights
 learning_resource_types: []
+ocw_type: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 4b41ee35-3642-bf02-01cc-25d7531538a4
 title: Providing Students with Feedback
-type: CourseSection
 uid: dc4448e7-8a4f-afe0-e966-497693391926
 ---
 
@@ -27,7 +29,7 @@ I have relied on peer feedback in my writing classes for more than twenty years.
 Workshops
 ---------
 
-![A woman's hands typing on a laptop computer.]({{< resource_file 8dbad1d4-8adb-382f-2900-cecf48066c75 >}})  
+{{< resource 8dbad1d4-8adb-382f-2900-cecf48066c75 >}}  
 
 (This photo is in the public domain.)
 

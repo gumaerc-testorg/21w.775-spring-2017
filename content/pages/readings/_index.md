@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of course topics and corresponding reading
+  assignments.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: 632ac3e3-3413-398a-9eb3-a058ae728a3b
 ---
 

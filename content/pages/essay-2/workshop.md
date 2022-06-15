@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: This section contains a list of workshop guidelines for Essay 2.
 learning_resource_types: []
+ocw_type: ''
 parent_title: Essay 2
 parent_type: CourseSection
 parent_uid: 2934922d-0028-909c-6457-fb5770df3ec4
 title: Workshop
-type: CourseSection
 uid: 621dbc38-404f-016c-ccde-fab6ac08db45
 ---
 

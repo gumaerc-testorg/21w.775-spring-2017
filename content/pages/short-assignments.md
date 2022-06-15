@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains the short writing assignments for this course.
 learning_resource_types: []
+ocw_type: ''
 title: Short Assignments
-type: CourseSection
 uid: a7f1ba37-a3f4-4b76-d84a-5e2886b1071f
 ---
 

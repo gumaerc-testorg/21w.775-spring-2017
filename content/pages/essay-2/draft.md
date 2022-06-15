@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: This section contains the guidelines for writing the draft of Essay 2.
 learning_resource_types: []
+ocw_type: ''
 parent_title: Essay 2
 parent_type: CourseSection
 parent_uid: 2934922d-0028-909c-6457-fb5770df3ec4
 title: Draft
-type: CourseSection
 uid: 2ad9dc43-780d-6e5f-fe6e-74b096ab16c6
 ---
 

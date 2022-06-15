@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section contains the course meeting times, course description and
+  requirements, and a grading breakdown of each assignment.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: 805bd73c-770f-4f26-6768-a8c9ff914b0b
 ---
 
