@@ -1,26 +1,26 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
+ocw_type: ''
 title: Instructor Insights
-type: ThisCourseAtMITSection
 uid: 4b41ee35-3642-bf02-01cc-25d7531538a4
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "The course encourages students to connect with the ideas expressed by other writers and then to pursue their own ideas." "—Cynthia Taft" >}}
 
 Below, Cynthia Taft describes various aspects of how she taught _21W.775 Writing about Nature and Environmental Issues_.
 
-*   [Balancing Intensive Writing and Reading]({{< baseurl >}}/pages/instructor-insights/balancing-intensive-writing-and-reading)
-*   [Providing Students with Feedback]({{< baseurl >}}/pages/instructor-insights/providing-students-with-feedback)
+- {{% resource_link dbdff3d7-eca1-f698-febf-6e8114f8bc5d "Balancing Intensive Writing and Reading" %}}
+- {{% resource_link dc4448e7-8a4f-afe0-e966-497693391926 "Providing Students with Feedback" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -28,8 +28,8 @@ None
 
 ### Requirements Satisfied
 
-*   CI-H ![](/images/educator/icon-question-cih.png)
-*   HASS-H ![](/images/educator/icon-question-hass-h.png)
+- CI-H ![](/images/educator/icon-question-cih.png)
+- HASS-H ![](/images/educator/icon-question-hass-h.png)
 
 ### Offered
 
@@ -37,8 +37,7 @@ Every few years
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -47,10 +46,11 @@ The students' grades were based on the following activities:
 - 40% Essay 3
 - 10% Participation
 
-Student Information
--------------------
+## Student Information
 
-![Fewer than 10 students enrolled in this course during the Spring 2017 term.]({{< resource_file 50d1e848-4292-2e12-4f9a-a94b89f43162 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -66,24 +66,21 @@ Most students were actively interested in environmental issues before they signe
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 27 sessions total; mandatory attendance.
-*   Class time was split into two sessions: one that focused on the student's most recent writing assignment and one that focused on their most recent readings.
-*   Several class sessions included impromptu workshops where students exchanged short papers or exercises and considered a single question about that exercise.
-*   For full drafts, workshops were more formalized and students shared papers and exchanged written detailed comments in response to the instructor's guidelines.
+- Met 2 times per week for 1.5 hours per session; 27 sessions total; mandatory attendance.
+- Class time was split into two sessions: one that focused on the student's most recent writing assignment and one that focused on their most recent readings.
+- Several class sessions included impromptu workshops where students exchanged short papers or exercises and considered a single question about that exercise.
+- For full drafts, workshops were more formalized and students shared papers and exchanged written detailed comments in response to the instructor's guidelines.
 
-Out of Class
-------------
+### Out of Class
 
-*   Completing assigned readings.
-*   Conducting background research.
-*   Completing [short assignments]({{< baseurl >}}/pages/short-assignments).
-*   Writing and revising three essays.
-*   Preparing for class discussions and peer feedback workshops.
+- Completing assigned readings.
+- Conducting background research.
+- Completing {{% resource_link a7f1ba37-a3f4-4b76-d84a-5e2886b1071f "short assignments" %}}.
+- Writing and revising three essays.
+- Preparing for class discussions and peer feedback workshops.
