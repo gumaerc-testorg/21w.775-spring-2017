@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains all the assignments related to Essay 3.
+learning_resource_types: []
+ocw_type: ''
 title: Essay 3
 uid: 9305c794-9837-e7fa-1ebe-540f1e607425
 ---
@@ -41,14 +44,14 @@ Requirements for Essay 3:
 *   First version due Session 23
 *   Final version due Session 26 (No additional revisions will be possible.)
 
-_[Guidelines for Draft of Essay 3]({{< baseurl >}}/pages/essay-3/draft)_
+_{{% resource_link f4eccb25-8cc2-faa8-8a53-f4a7712fd0b2 "Guidelines for Draft of Essay 3" %}}_
 
 Workshop 3
 ----------
 
 In-class on Session 24
 
-_[Guidelines for Workshop 3]({{< baseurl >}}/pages/essay-3/workshop)_
+_{{% resource_link a99fa1ef-3d43-c4cb-98be-1661676c4358 "Guidelines for Workshop 3" %}}_
 
 Final Revision Workshop
 -----------------------
@@ -64,4 +67,4 @@ Due Session 26
 
 _Example student work_
 
-["Wilderness Through the Eyes of Edward Abbey and Wendell Berry" (PDF)]({{< baseurl >}}/resources/mit21w_775s17_essay3_wilderness) - Courtesy of Laura Treers and used with permission.
+{{% resource_link 41100245-e41e-40e4-8c10-0277536ca06b "\"Wilderness Through the Eyes of Edward Abbey and Wendell Berry\" (PDF)" %}} - Courtesy of Laura Treers and used with permission.

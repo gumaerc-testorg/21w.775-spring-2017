@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section contains a list of course topics and assignment due dates. '
+learning_resource_types: []
+ocw_type: ''
 title: Calendar
 uid: b2cab3cd-beaa-21b2-adbf-2db1c244141b
 ---

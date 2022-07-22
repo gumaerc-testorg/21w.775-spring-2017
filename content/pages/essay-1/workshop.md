@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains guidelines for comments and workshop discussions
+  for Essay 1.
+learning_resource_types: []
+ocw_type: ''
 parent_title: Essay 1
+parent_type: CourseSection
 parent_uid: 68285fcc-c3c2-a253-6e6a-14231e426fe2
 title: Workshop
 uid: be4fd861-a9e3-69c3-da87-2e3345fc08bf

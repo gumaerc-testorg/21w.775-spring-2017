@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains all assignments related to Essay 1.
+learning_resource_types: []
+ocw_type: ''
 title: Essay 1
 uid: 68285fcc-c3c2-a253-6e6a-14231e426fe2
 ---
@@ -44,14 +47,14 @@ Eiseley, Loren. "The Judgment of the Birds." In _The Immense Journey: An Imagina
 
 Each of these authors draws upon the symbolic resonance of a particular bird or group of birds, but the power of each work depends upon carefully observed details. In a coherent essay that develops a unifying thesis, explore the role played by the particular bird or group of birds at the center of one of these texts. Be sure to consider the relationship between the observed or documented details and the symbolic associations of the bird. This assignment is deliberately open-ended to allow you to follow the distinctive path of your own thoughts, but the resulting essay must be tightly organized and well documented.
 
-_[Guidelines for draft of Essay 1]({{< baseurl >}}/pages/essay-1/draft)_
+_{{% resource_link c9f66ccd-180b-d7de-b59b-ecc8a95df3fd "Guidelines for draft of Essay 1" %}}_
 
 Workshop 1
 ----------
 
 In-class on Session 6
 
-_[Guidelines for Workshop 1]({{< baseurl >}}/pages/essay-1/workshop)_
+_{{% resource_link be4fd861-a9e3-69c3-da87-2e3345fc08bf "Guidelines for Workshop 1" %}}_
 
 Revision
 --------
