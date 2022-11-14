@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: This section contains the guidelines for writing the draft of Essay 1.
 draft: false
 learning_resource_types: []
 ocw_type: ''
