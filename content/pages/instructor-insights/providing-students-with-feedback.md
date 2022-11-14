@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: In this section, Cynthia Taft shares strategies she uses to provide students
-  with feedback about their writing.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ''

@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: This section contains the short writing assignments for this course.
 learning_resource_types: []
 ocw_type: ''
 title: Short Assignments
