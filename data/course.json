@@ -42,7 +42,9 @@
   },
   "course_title": "Writing about Nature and Environmental Issues",
   "course_description": "In this course we will read and write about works that explore symbolic encounters in the American landscape. Some of the assigned works look at uneasy encounters between ordinary individuals and animals\u2014wolves, eagles, sandhill cranes\u2014that Americans have invested with symbolic significance; others explore conflicts between the pragmatic American impulse to impose order on unruly nature and the equally American inclination to enshrine the unaltered landscape.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.775",
   "course_image_thumbnail": {
@@ -50,8 +52,9 @@
     "website": "21w-775-writing-about-nature-and-environmental-issues-spring-2017"
   },
   "learning_resource_types": [
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "79a7ae64-95ac-48a0-86d1-2fbe8ff0fad3",
+  "site_uid": "23c53ee5-263f-4528-a5b7-33b84091e96a",
   "title": "Course Metadata"
 }

@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section contains guidelines for comments and workshop discussions
-  for Essay 1.
 learning_resource_types: []
 ocw_type: ''
 parent_title: Essay 1

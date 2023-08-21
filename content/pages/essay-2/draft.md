@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: This section contains the guidelines for writing the draft of Essay 2.
 learning_resource_types: []
 ocw_type: ''
 parent_title: Essay 2
