@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section contains the assignment details for the in class Workshop
-  3.
 learning_resource_types: []
 ocw_type: ''
 parent_title: Essay 3

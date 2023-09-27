@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: This section contains all assignments related to Essay 1.
 learning_resource_types: []
 ocw_type: ''
 title: Essay 1

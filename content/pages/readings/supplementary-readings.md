@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: This section contains a list of optional readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: ''
