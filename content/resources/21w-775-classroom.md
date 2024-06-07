@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/4d6fe0bcde4ec8b146d89563865da2ab_21W.775-classroom.jpg
+file_size: 18189
 file_type: image/jpeg
 image_metadata:
   caption: ''
