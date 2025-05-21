@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/8dbad1d48adb382f2900cecf48066c75_21W.775_Laptop.jpg
+file: /courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/8dbad1d48adb382f2900cecf48066c75_21W.775_Laptop.jpg
 file_size: 10517
 file_type: image/jpeg
 image_metadata:
