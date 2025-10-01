@@ -35,16 +35,16 @@ The tensions evident in this and other symbolic encounters should provide though
 **Recommended resources for all students:**
 
 *   If you like having a hard copy of a writer’s manual, look for one that covers the most recent version of the MLA citation guidelines (8th edition).
-*   If you are happy working with an online manual, try Purdue University’s [Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/).
+*   If you are happy working with an online manual, try Purdue University’s {{% resource_link "205347bc-6958-47ad-885e-e5058762d3c9" "Online Writing Lab (OWL)" %}}.
 
-**Additional resources on reserve at [Hayden Library](https://libraries.mit.edu/hayden/)** (Note: Hayden Library resources are available to MIT students only):
+**Additional resources on reserve at {{% resource_link "db3f8609-b243-4535-b901-673c693dc0d1" "Hayden Library" %}}** (Note: Hayden Library resources are available to MIT students only):
 
-*   Cronon, William, ed. _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Company, 1996. ISBN: 9780393315110. \[Preview with [Google Books](https://books.google.com/books?id=DU9KAAAAQBAJ&lpg=PP1&dq=uncommon%20ground%3A%20rethinking%20the%20human%20%20place&pg=PP1#v=onepage&q=uncommon%20ground:%20rethinking%20the%20human%20%20place&f=false)\]
-*   Nash, Roderick Frazier. _Wilderness and the American Mind_. 5th edition. Yale University Press, 2014. ISBN: 9780300190380. \[Preview with [Google Books](https://books.google.com/books?id=eQupAgAAQBAJ&lpg=PP1&dq=wilderness%20and%20the%20american%20mind&pg=PP1#v=onepage&q&f=false)\]
-*   Pollan, Micahel. _Second Nature: A Gardener's Education_. Reprint edition. Grove Press, 2003. ISBN: 9780802140111. \[Preview with [Google Books](https://books.google.com/books?id=3zUqfDxvl48C&lpg=PP1&dq=second%20nature&pg=PP1#v=onepage&q&f=false)\]
-*   Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with [Google Books](https://books.google.com/books?id=2Ng-5B5H2wcC&lpg=PP1&dq=nature's%20economy&pg=PP1#v=onepage&q&f=false)\]
-*   Schullery, Paul. _Searching for Yellowstone: Ecology and Wonder in the Last Wilderness_. Montana Historical Society Press, 2004. ISBN: 9780972152211. \[Preview with [Google Books](https://books.google.com/books?id=BucbobJGExMC&lpg=PP1&dq=searching%20for%20yellowstone&pg=PP1#v=onepage&q&f=false)\]
-*   Quammen, David. _The Song of the Dodo: Island Biogeography in an Age of Extinction_. Reprint edition. Scribner, 1997. ISBN: 9780684827124. \[Preview with [Google Books](https://books.google.com/books?id=53kuEeItYtIC&lpg=PP1&dq=song%20of%20the%20dodo&pg=PP1#v=onepage&q&f=false)\]
+*   Cronon, William, ed. _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Company, 1996. ISBN: 9780393315110. \[Preview with {{% resource_link "44aaa600-817d-4b8d-8fe7-7c79638c96e2" "Google Books" %}}\]
+*   Nash, Roderick Frazier. _Wilderness and the American Mind_. 5th edition. Yale University Press, 2014. ISBN: 9780300190380. \[Preview with {{% resource_link "f6a2fd67-c85f-441d-b28b-81b67003c93a" "Google Books" %}}\]
+*   Pollan, Micahel. _Second Nature: A Gardener's Education_. Reprint edition. Grove Press, 2003. ISBN: 9780802140111. \[Preview with {{% resource_link "92a6b526-82bc-4a69-8467-40c0cc070ed0" "Google Books" %}}\]
+*   Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with {{% resource_link "ae0ab275-2cdb-4000-9bbb-ce6538f6b9de" "Google Books" %}}\]
+*   Schullery, Paul. _Searching for Yellowstone: Ecology and Wonder in the Last Wilderness_. Montana Historical Society Press, 2004. ISBN: 9780972152211. \[Preview with {{% resource_link "271b559a-0fef-4d94-b604-85aeba32c31a" "Google Books" %}}\]
+*   Quammen, David. _The Song of the Dodo: Island Biogeography in an Age of Extinction_. Reprint edition. Scribner, 1997. ISBN: 9780684827124. \[Preview with {{% resource_link "e19e7849-7d54-4c59-9766-77310833f1c4" "Google Books" %}}\]
 
 **Class Participation**
 

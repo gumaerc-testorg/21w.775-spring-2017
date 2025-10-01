@@ -40,9 +40,9 @@ In class: Writing exercise
 {{< tdopen >}}
 
 
-Leopold, Aldo. "Axe-in-Hand." In _A Sand County Almanac and Sketches Here and There_. Illustrated by Charles W. Schwartz. 2nd edition. Oxford University Press, 1968. ISBN: 9780195007770. \[Preview with [Google Books](https://books.google.com/books?id=LICERWI0YJYC&lpg=PP1&dq=a%20sand%20county%20almanac%20oxford%20university%20press&pg=PA67#v=onepage&q&f=false)\]
+Leopold, Aldo. "Axe-in-Hand." In _A Sand County Almanac and Sketches Here and There_. Illustrated by Charles W. Schwartz. 2nd edition. Oxford University Press, 1968. ISBN: 9780195007770. \[Preview with {{% resource_link "be2fdb94-d3a5-43ec-bae2-922973698d45" "Google Books" %}}\]
 
-Abbey, Edward. "Solitaire." In _Desert Solitaire: A Season in the Wilderness_. Ballantine Books, 1971. ISBN: 9780345326492. \[Preview with [Google Books](https://books.google.com/books?id=lkhMtksYyhYC&lpg=PP1&dq=desert%20solitaire%20ballantine%20books&pg=PA8#v=onepage&q&f=false)\]
+Abbey, Edward. "Solitaire." In _Desert Solitaire: A Season in the Wilderness_. Ballantine Books, 1971. ISBN: 9780345326492. \[Preview with {{% resource_link "629f2489-beb0-4a05-96b0-37203a39b106" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -84,13 +84,13 @@ Birds: Nature's Emissaries
 {{< tdopen >}}
 
 
-Beston, Henry. _The Outermost House: A Year of Life on the Great Beach of Cape Code_. Reprint edition. Holt Paperbacks, 2003, pp. 19–25. ISBN: 9780805073683. \[Preview with [Google Books](https://books.google.com/books?id=AUA9DFpWy14C&lpg=PP1&dq=the%20outermost%20house&pg=PA19#v=onepage&q&f=false)\]
+Beston, Henry. _The Outermost House: A Year of Life on the Great Beach of Cape Code_. Reprint edition. Holt Paperbacks, 2003, pp. 19–25. ISBN: 9780805073683. \[Preview with {{% resource_link "051415b5-b590-406b-bd9b-538b365d7cff" "Google Books" %}}\]
 
 \[AE\] Leopold, Aldo. "Marshland Elegy."
 
-———. "On a Monument to the Pigeon." In _A Sand County Almanac_. Reprint edition. Ballantine Books, 1986. ISBN: 9780345345059. \[Preview with [Google Books](https://books.google.com/books?id=Gxq72yz1z6EC&lpg=PP1&pg=PA116#v=onepage&q&f=false)\]
+———. "On a Monument to the Pigeon." In _A Sand County Almanac_. Reprint edition. Ballantine Books, 1986. ISBN: 9780345345059. \[Preview with {{% resource_link "882ce3f3-7f4a-4dd6-aa36-d503f7c0dd3f" "Google Books" %}}\]
 
-Eiseley, Loren. "The Judgment of the Birds." In _The Immense Journey: An Imaginative Naturalist Explores the Mysteries of Man and Nature_. Vintage, 1959. ISBN: 9780394701578. \[Preview with [Google Books](https://books.google.com/books?id=XUcdLS_j0UsC&lpg=PP1&dq=the%20immense%20journey&pg=PA163#v=onepage&q&f=false)\]
+Eiseley, Loren. "The Judgment of the Birds." In _The Immense Journey: An Imaginative Naturalist Explores the Mysteries of Man and Nature_. Vintage, 1959. ISBN: 9780394701578. \[Preview with {{% resource_link "a420e0f4-f63e-408f-9de4-47eb107b14c5" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -176,15 +176,15 @@ In class: Framing an argument
 {{< tdopen >}}
 
 
-Pollan, Michael. "[Gardening Means War](http://michaelpollan.com/articles-archive/gardening-means-war/)." _The New York Times Magazine_. June 19, 1988.
+Pollan, Michael. "{{% resource_link "b5208956-b944-4473-bc2f-cdba878b41db" "Gardening Means War" %}}." _The New York Times Magazine_. June 19, 1988.
 
-———. "[Sustaining Vision](http://michaelpollan.com/articles-archive/sustaining-vision/)." _Gourmet Magazine_. August 31, 2002.
+———. "{{% resource_link "5fb57d78-94bd-4e29-bb1d-bdd69d7a23ae" "Sustaining Vision" %}}." _Gourmet Magazine_. August 31, 2002.
 
-Kingsolver, Barbara. "[Stalking the Vegetannual](https://orionmagazine.org/article/stalking-the-vegetannual/)." _Orion Magazine_.
+Kingsolver, Barbara. "{{% resource_link "58df5509-c821-4493-b85f-a490dbd90e2a" "Stalking the Vegetannual" %}}." _Orion Magazine_.
 
 _Watch:_
 
-Finley, Roy. "[A Guerilla Gardener in South Central LA](https://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la)." _TED Talk_. February 2013.
+Finley, Roy. "{{% resource_link "5005d7b0-d2d6-4177-ad7f-32df183ef352" "A Guerilla Gardener in South Central LA" %}}." _TED Talk_. February 2013.
 
 
 {{< tdclose >}}
@@ -200,9 +200,9 @@ In class: The rhetoric of argument
 {{< tdopen >}}
 
 
-Pollan, Michael. "[Why Mow? The Case Against Lawns](http://michaelpollan.com/articles-archive/why-mow-the-case-against-lawns/)." _The New York Times Magazine_. May 28, 1989.
+Pollan, Michael. "{{% resource_link "8092bfc9-6ad3-4339-b135-5920db1291e2" "Why Mow? The Case Against Lawns" %}}." _The New York Times Magazine_. May 28, 1989.
 
-Kolbert, Elizabeth. "[Turf War](https://www.newyorker.com/magazine/2008/07/21/turf-war-elizabeth-kolbert)." _The New Yorker_. July 21, 2008.
+Kolbert, Elizabeth. "{{% resource_link "ca92f41b-a670-4e73-a881-bf131c746104" "Turf War" %}}." _The New Yorker_. July 21, 2008.
 
 
 {{< tdclose >}}
@@ -222,7 +222,7 @@ Exercise: Re-assembling an essay
 
 {{< tdclose >}}
 {{< tdopen >}}
-Cronon, William. "The Trouble with Wilderness; or, Getting Back to the Wrong Nature." In _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Company, 1996. ISBN: 9780393315110. \[Preview with [Google Books](https://books.google.com/books?id=DU9KAAAAQBAJ&lpg=PP1&dq=uncommon%20ground%20rethinking%20the%20human%20place%20in%20nature&pg=PA69#v=onepage&q&f=false)\]
+Cronon, William. "The Trouble with Wilderness; or, Getting Back to the Wrong Nature." In _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Company, 1996. ISBN: 9780393315110. \[Preview with {{% resource_link "35760d31-6437-4449-a1cf-157ba83b4176" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +262,7 @@ Writing: Warm-up exercise 2.1
 {{< tdopen >}}
 
 
-"[Giving a Dam: Congress Debates Hetch Hetchy](http://historymatters.gmu.edu/d/5721/)." _History Matters: The U.S. Survey Course_.
+"{{% resource_link "18daa7f6-ff21-4403-ab5d-9c6294711ff3" "Giving a Dam: Congress Debates Hetch Hetchy" %}}." _History Matters: The U.S. Survey Course_.
 
 McPhee, John. _Encounters with the Archdruid_. Farrar, Straus and Giroux, 1980, pp. 153–167. ISBN: 9780374514310.
 
@@ -292,7 +292,7 @@ In class: Exploring two texts. Creating a conceptual framework
 {{< tdopen >}}
 
 
-Lopez, Barry. "Gone Back into the Earth." In _Crossing Open Ground_. Vintage, 1989. ISBN: 9780679721833. \[Preview with [Google Books](https://books.google.com/books?id=VXyS2EJWBwAC&lpg=PP1&dq=crossing%20open%20ground&pg=PT41#v=onepage&q&f=false)\]
+Lopez, Barry. "Gone Back into the Earth." In _Crossing Open Ground_. Vintage, 1989. ISBN: 9780679721833. \[Preview with {{% resource_link "8038693c-d979-43ee-be01-578e40a75c9c" "Google Books" %}}\]
 
 \[AE\] Meloy, Ellen. "The Flora and Fauna of Las Vegas."
 
@@ -320,7 +320,7 @@ In class: Exploring the past in a narrative essay
 
 \[AE\] Sanders, Scott Russell. "After the Flood."
 
-McPhee, John. "[Farewell to the Nineteenth Century](https://www.newyorker.com/magazine/1999/09/27/farewell-to-the-nineteenth-century)." _The New Yorker_. September 27, 1999.
+McPhee, John. "{{% resource_link "0aea39ad-ec9e-4ce4-9ef7-692dc5139b4a" "Farewell to the Nineteenth Century" %}}." _The New Yorker_. September 27, 1999.
 
 
 {{< tdclose >}}
@@ -358,7 +358,7 @@ Wolves: Confronting wildness
 
 \[AE\] Leopold, Aldo. "Thinking Like a Mountain."
 
-Bass, Rick. "[Wolf Palette](https://orionmagazine.org/article/wolf-palette/)." _Orion Magazine_.
+Bass, Rick. "{{% resource_link "db7c63ed-6300-46fd-a9b0-7a9785ccf08e" "Wolf Palette" %}}." _Orion Magazine_.
 
 
 {{< tdclose >}}
@@ -374,9 +374,9 @@ In class: Asking good questions and finding good sources
 {{< tdopen >}}
 
 
-Middleton, Arthur. "[Is the Wolf a Real American Hero?](https://www.nytimes.com/2014/03/10/opinion/is-the-wolf-a-real-american-hero.html)" _The New York Times_. March 9, 2014.
+Middleton, Arthur. "{{% resource_link "45b85564-9e43-4249-ba14-d4f589759a91" "Is the Wolf a Real American Hero?" %}}" _The New York Times_. March 9, 2014.
 
-McNamee, Thomas. "[Tinkering with Nature](http://www.hcn.org/issues/247/13837)." _High Country News_. March 31, 2003.
+McNamee, Thomas. "{{% resource_link "babbbf94-14d7-452c-9f77-6bc0b320e345" "Tinkering with Nature" %}}." _High Country News_. March 31, 2003.
 
 
 {{< tdclose >}}
@@ -462,7 +462,7 @@ Reading: Secondary sources for Essay 3.
 Writing: Prospectus
 {{< tdclose >}}
 {{< tdopen >}}
-Wilson, Edward O. "[A Biologist's Manifesto for Preserving Life on Earth](http://www.sierraclub.org/sierra/2017-1-january-february/feature/biologists-manifesto-for-preserving-life-earth)." _Sierra_. December 12, 2016.
+Wilson, Edward O. "{{% resource_link "74a518dd-4861-4952-8ebb-ac2b54ac588a" "A Biologist's Manifesto for Preserving Life on Earth" %}}." _Sierra_. December 12, 2016.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -516,7 +516,7 @@ In class: Workshop on revised introductions
 
 {{< tdclose >}}
 {{< tdopen >}}
-Williams, Terry Tempest. "Grand Teton National Park, Wyoming." In _The Hour of Land: A Personal Topography of America's National Parks_. Reprint edition. Picador, 2017. ISBN: 9781250132147. \[Preview with [Google Books](https://books.google.com/books?id=aXHtCgAAQBAJ&lpg=PP1&dq=the%20hour%20of%20land&pg=PA17#v=onepage&q&f=false)\]
+Williams, Terry Tempest. "Grand Teton National Park, Wyoming." In _The Hour of Land: A Personal Topography of America's National Parks_. Reprint edition. Picador, 2017. ISBN: 9781250132147. \[Preview with {{% resource_link "a7f010fb-cd20-4b1c-bb5e-4194aa8498e3" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
